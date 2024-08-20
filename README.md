@@ -120,7 +120,3 @@ When you have found your file:
 - You might see multiple results. Your system often use different partion blocks to save successive versions of a file. Make sure you've found the last version.
 - Try exploring neighboring blocks to be sure to save your whole file.
 
-## Contributing
-
-Thank you for considering contributing to RecoverPy.
-Any request, bug report or PR are welcome. Please read the [contributing guide](CONTRIBUTING.md).
